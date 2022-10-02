@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rishi1tiwari
 - 👀 I’m interested in becoming a successfull Data scientist
-- 🌱 I’m currently learning R and Statistics
-- 
 - 📫 How to reach me ...
 Contact me on Linkedin - https://www.linkedin.com/in/hrishikeshtripathi/
 <!---
